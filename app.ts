@@ -7,7 +7,7 @@ const app = express();
 const router = Router();
 const PORT = process.env.PORT || 8080;
 
-app.use(cors({ credentials: true, origin: ['http://localhost:3000'] }));
+app.use(cors({ credentials: true, origin: ['http://localhost:3000', 'https://bls-frontend.vercel.app'] }));
 
 app.listen(PORT, async () => {
     initBigQuery();
