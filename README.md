@@ -2,9 +2,9 @@
 
 Node.js server made to handle fetching of BLS Wallet data from Google BigQuery
 
-### Server url
+### BLS Analytics Frontend
 
-[https://bls-server.herokuapp.com/](https://bls-server.herokuapp.com/)
+[https://github.com/Ian-Bright/bls-frontend](https://github.com/Ian-Bright/bls-frontend)
 
 ## Setup
 
