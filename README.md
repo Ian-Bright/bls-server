@@ -1,4 +1,4 @@
-# bls-server
+# BLS Wallet Analytics Server
 
 Node.js server made to handle fetching of BLS Wallet data from Google BigQuery
 
